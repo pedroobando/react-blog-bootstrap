@@ -1,6 +1,7 @@
-## Plantilla de para crear apps de reactjs, tiene configurado slint y prettier
+## Build a website with React, React-Bootstrap, React-Router and Styled-Components
 
-Este proyecto fue arrancado con [Create React App](https://github.com/facebook/create-react-app).
+
+Este proyecto fue arrancado con [Build a website with React](https://www.youtube.com/watch?v=tOK9l5uP06U).
 
 ## Available Scripts
 
